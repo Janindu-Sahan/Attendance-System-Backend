@@ -8,7 +8,7 @@
     <artifactId>Attendance-System-Backend</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-<<<<<<< HEAD
+
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
@@ -71,12 +71,12 @@
             </plugin>
         </plugins>
     </build>
-=======
+
     <properties>
         <maven.compiler.source>22</maven.compiler.source>
         <maven.compiler.target>22</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
->>>>>>> 42b7a1554433b5b6090d3fc7b5f13bb79171c722
+
 
 </project>
